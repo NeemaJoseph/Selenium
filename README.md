@@ -25,6 +25,7 @@ namespace SeleniumTests
             baseURL = "https://www.katalon.com/";
             verificationErrors = new StringBuilder();
         }
+        }
 
         [TearDown]
         public void TeardownTest()
