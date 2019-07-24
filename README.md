@@ -32,6 +32,8 @@ namespace SeleniumTests
         {
             try
             {
+            
+            {[
                 driver.Quit();
             }
             catch (Exception)
